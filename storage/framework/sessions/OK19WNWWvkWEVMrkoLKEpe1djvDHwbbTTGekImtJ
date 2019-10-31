@@ -1,0 +1,1 @@
+a:4:{s:9:"_previous";a:1:{s:3:"url";s:37:"http://localhost:8000/create-employee";}s:6:"_flash";a:2:{s:3:"old";a:0:{}s:3:"new";a:0:{}}s:6:"_token";s:40:"7ilMYg26uSUnHUhrbYbPZikUMITZRkHIBoKymraB";s:4:"user";O:8:"stdClass":5:{s:3:"lid";i:2;s:6:"userId";i:1;s:8:"userName";s:5:"rajib";s:8:"password";s:5:"12345";s:4:"type";s:5:"admin";}}
