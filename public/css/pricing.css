@@ -1,0 +1,70 @@
+hr{
+	display: none;
+}
+
+.card hr+div, .card hr+div+div{
+	margin-top: 20px;
+}
+
+
+
+.cardo{
+	height: 180px !important;
+	margin-top: 20px;
+}
+
+.hcr-card{
+	width: 100%;
+	border: 1px solid #bc3633;
+	border-radius: 5px;
+	margin: 20px 0;
+	color: #16110F;
+	font-family: tm;
+}
+
+.hcr-card hr{
+	display: block;
+	margin-bottom: 5px;
+	height: 12px;
+	border: 0;
+	box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+.hcr-card .img-responsive{
+	margin-top: 10px;
+}
+
+.hcr-card ul{
+	list-style: square url('../images/pr4.svg');
+	padding-left: 10px;
+	padding-right: 15px;
+}
+
+.hcr-card li{
+	font-family: tr;
+	margin: 10px 0;
+	font-size: 16px;
+}
+
+.hcr-right{
+	background-color: #E0E0E0;
+}
+
+.hcr-right span{
+	font-family: tr;
+	font-size: 55px;
+	display: block;
+}
+
+.hcr-right button{
+	width: 170px;
+}
+
+.flip{
+	-moz-transform: scaleX(-1);
+	        -o-transform: scaleX(-1);
+	        -webkit-transform: scaleX(-1);
+	        transform: scaleX(-1);
+	        filter: FlipH;
+	        -ms-filter: "FlipH";
+}
